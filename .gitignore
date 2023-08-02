@@ -1,0 +1,7 @@
+node_modules
+desing
+
+/.cache
+/public/build
+/.netlify
+.env
